@@ -8,6 +8,7 @@ class App extends Component {
   render() {
     return (
      <Router>
+       <h3>Hello, Cừu moe moe</h3>
        <Menu />
         <div className="container">
           <div className="row">
